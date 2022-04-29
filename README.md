@@ -9,7 +9,7 @@
 ## About 
 Very simple password generator created in python `(it was a challenge between me and my mate)`
 
-## Password Options:
+## Password Options
 - Choose what characters u wish to use
 - Choose length of password `(min: 8 | max: 250)`
 - Choose "name" for password `(to remember it)`
@@ -23,8 +23,8 @@ Very simple password generator created in python `(it was a challenge between me
 ## Change Log
 
 ## Contact
-Discord - CookiesKush420#4152
-Email - Callumgm20052005@gmail.com
+- Discord - CookiesKush420#4152
+- Email - Callumgm20052005@gmail.com
 
 
 
